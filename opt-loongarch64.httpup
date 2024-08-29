@@ -1,0 +1,6 @@
+# opt-loongarch64 ports collection
+#
+# https://github.com/sajcho/opt-loongarch64
+
+ROOT_DIR=/usr/ports/opt-loongarch64
+URL=https://raw.githubusercontent.com/sajcho/opt-loongarch64/main
