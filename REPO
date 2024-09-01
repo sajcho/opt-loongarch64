@@ -1,6 +1,5 @@
 d:llvm-toolchain
 d:rust
-f:31fd22e0cd8da6ce76e63498f5ed0aeb:opt-loongarch64.httpup
 f:4050251d811d9a522e13951a128882eb:llvm-toolchain/.footprint
 f:e088ce7da38431e403b5b47214103dea:llvm-toolchain/.signature
 f:280ccab20177cfc75f9ca3319bcba6b5:llvm-toolchain/Pkgfile
