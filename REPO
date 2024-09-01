@@ -1,0 +1,13 @@
+d:llvm-toolchain
+d:rust
+f:31fd22e0cd8da6ce76e63498f5ed0aeb:opt-loongarch64.httpup
+f:4050251d811d9a522e13951a128882eb:llvm-toolchain/.footprint
+f:e088ce7da38431e403b5b47214103dea:llvm-toolchain/.signature
+f:280ccab20177cfc75f9ca3319bcba6b5:llvm-toolchain/Pkgfile
+f:3a56a4e09450a4bc9e2a6d17478f8679:llvm-toolchain/README
+f:a68528b0fd1e5420b6f851ae579e97a4:rust/.nostrip
+f:462e8deca2269cc24c81b629bc4c86e9:rust/.footprint
+f:4778dff4df26a21d4703750f732d9691:rust/.signature
+f:905228300383957419fa135624928c1b:rust/0002-tool.rs-change-dir-libexec-to-lib.patch
+f:d8b5a79aa2f27573dd296983ef8eb562:rust/Pkgfile
+f:fa8e466b2e4d33e772904b015a717088:rust/0001-dist.rs-change-dir-libexec-to-lib.patch
