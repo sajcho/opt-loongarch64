@@ -1,5 +1,9 @@
+d:gobject-introspection
 d:llvm-toolchain
 d:rust
+f:68975af50279c8a9f51ac4cdfa02cfad:gobject-introspection/.footprint
+f:2ebe118faf68e756df30e1bc73c1b47f:gobject-introspection/.signature
+f:c7e03a3bd41b4f90886011caa4785598:gobject-introspection/Pkgfile
 f:4050251d811d9a522e13951a128882eb:llvm-toolchain/.footprint
 f:e088ce7da38431e403b5b47214103dea:llvm-toolchain/.signature
 f:280ccab20177cfc75f9ca3319bcba6b5:llvm-toolchain/Pkgfile
