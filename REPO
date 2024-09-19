@@ -1,14 +1,9 @@
 d:gobject-introspection
-d:lm-sensors
 d:llvm-toolchain
 d:rust
 f:68975af50279c8a9f51ac4cdfa02cfad:gobject-introspection/.footprint
 f:2ebe118faf68e756df30e1bc73c1b47f:gobject-introspection/.signature
 f:c7e03a3bd41b4f90886011caa4785598:gobject-introspection/Pkgfile
-f:c000a8bfee82f077299fd491e77a3a74:lm-sensors/.footprint
-f:264a2428afcb28a6e3f13a558545e827:lm-sensors/.signature
-f:cb248bae1ff814f1932f5779c496367a:lm-sensors/Pkgfile
-f:c78da831c375e0c2d8d187dc4fabd272:lm-sensors/README
 f:4050251d811d9a522e13951a128882eb:llvm-toolchain/.footprint
 f:e088ce7da38431e403b5b47214103dea:llvm-toolchain/.signature
 f:280ccab20177cfc75f9ca3319bcba6b5:llvm-toolchain/Pkgfile
