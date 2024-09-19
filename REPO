@@ -1,6 +1,10 @@
+d:ruby
 d:gobject-introspection
 d:llvm-toolchain
 d:rust
+f:7408ba3b70ef8d358387de8d58d3dc9c:ruby/.footprint
+f:51758dc4e9ac74e8166eb17c224b2538:ruby/.signature
+f:0d39df911329958480ae434196555fe2:ruby/Pkgfile
 f:68975af50279c8a9f51ac4cdfa02cfad:gobject-introspection/.footprint
 f:2ebe118faf68e756df30e1bc73c1b47f:gobject-introspection/.signature
 f:c7e03a3bd41b4f90886011caa4785598:gobject-introspection/Pkgfile
