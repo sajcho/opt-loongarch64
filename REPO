@@ -1,6 +1,7 @@
 d:ruby
 d:gobject-introspection
 d:llvm-toolchain
+d:dtc
 d:rust
 f:7408ba3b70ef8d358387de8d58d3dc9c:ruby/.footprint
 f:51758dc4e9ac74e8166eb17c224b2538:ruby/.signature
@@ -12,6 +13,12 @@ f:4050251d811d9a522e13951a128882eb:llvm-toolchain/.footprint
 f:e088ce7da38431e403b5b47214103dea:llvm-toolchain/.signature
 f:280ccab20177cfc75f9ca3319bcba6b5:llvm-toolchain/Pkgfile
 f:3a56a4e09450a4bc9e2a6d17478f8679:llvm-toolchain/README
+f:ac80db45859625e9652da7b7a3a0f253:dtc/.footprint
+f:a1f8dc838573dc38e553fae447ff405f:dtc/.signature
+f:1d5338ea80641f5fe6d690e955306bfa:dtc/pyscm.patch
+f:8a27498160cbf37df9f945db4c5dafbb:dtc/fix-tests-for-Python3.12.patch
+f:dc1ae0d1926eba97500c469b90d0160b:dtc/Pkgfile
+f:624fc2643abd796897daf6bc2f05ff4e:dtc/install-pylibfdt-to-destdir.patch
 f:a68528b0fd1e5420b6f851ae579e97a4:rust/.nostrip
 f:2b11a9256308c741f00204bf0ee7c9e4:rust/.footprint
 f:9d1bde2e86dd5d611cad0ceb8227f55c:rust/.signature
